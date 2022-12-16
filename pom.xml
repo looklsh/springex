@@ -6,9 +6,7 @@
   <packaging>war</packaging>
   <!-- properties -->
   <properties>
-  	<org.springframework-version>
-  	4.2.3.RELEASE
-  	</org.springframework-version>
+  	<org.springframework-version>5.2.20.RELEASE</org.springframework-version>
   </properties>
   <!-- 응용프로그램 빌드를 위한 설정들 -->
   <build>
